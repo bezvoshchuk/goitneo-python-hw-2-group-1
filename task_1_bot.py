@@ -1,4 +1,4 @@
-from classes import Name, Phone, Record, AddressBook
+from task_2_bot_classes import Name, Phone, Record, AddressBook
 
 def input_error(func):
     def inner(*args, **kwargs):
